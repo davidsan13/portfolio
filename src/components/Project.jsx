@@ -5,7 +5,7 @@ function Project() {
  
   return (
     <div id="project">
-      <h1>Project</h1>
+      {/* <h1 className="project_header">Project</h1> */}
       <ProjectCard/>
       <ProjectCard/>
       <ProjectCard/>

@@ -3,7 +3,7 @@ import React from 'react';
 function AboutMe() {
   return (
     <div id="about-me">
-      <img src='http://via.placeholder.com/360x460'></img>
+      <img class="am_img" src='http://via.placeholder.com/240x220'></img>
       <section>
       <h1>About Me</h1>
       <p>
