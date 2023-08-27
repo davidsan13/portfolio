@@ -3,10 +3,8 @@ import React from 'react';
 function AboutMe() {
   return (
     <div id="about-me">
-      {/* <img className="am_img" src='http://via.placeholder.com/240x220'></img> */}
-      <section>
      
-      <h2>David San</h2>
+      <h1>David San</h1>
       <h2>Frontend Developer</h2>
       <p>
         I'm a front-end developer based in California. 
@@ -19,8 +17,6 @@ function AboutMe() {
         Excepteur sint occaecat cupidatat non proident, sunt in culpa 
         qui officia deserunt mollit anim id est laborum.
       </p>
-      </section>
-      
     </div>
     
   )

@@ -38,8 +38,12 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  margin: 0;
 }
 
+h2 {
+  margin: 0;
+}
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -87,16 +91,17 @@ main {
 }
 #about-me {
   
-  display: grid;
+  display: flex;
+  flex-direction: column;
   /* height: 400px; */
   height: 100vh;
   margin: 0 300px;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  /* gap: 1rem; */
+  /* grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); */
   align-items: center;
   justify-content: center;
-  justify-items: center;
-  align-content: center;
+  /* justify-items: center; */
+  /* align-content: center; */
 }
 
 .am_img {

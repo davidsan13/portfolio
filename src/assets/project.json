@@ -2,7 +2,7 @@
   "project": [ 
     {
       "name": "Shopping Cart",
-      "description": "A mock-up e-commerce website to with a shopping cart feature. It is build using react to manage and handle states.It used react router dom to define routes",
+      "description": "A mock-up e-commerce website with a shopping cart feature. It is build using react to manage and handle states.It used react router dom to define routes",
       "url": "https://davidsan13.github.io/shopping_cart/",
       "urlCode": "https://github.com/davidsan13/shopping_cart",
       "img": "shoppingcart.png",
