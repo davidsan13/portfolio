@@ -3,10 +3,13 @@ import React from 'react';
 function AboutMe() {
   return (
     <div id="about-me">
-      <img class="am_img" src='http://via.placeholder.com/240x220'></img>
+      {/* <img className="am_img" src='http://via.placeholder.com/240x220'></img> */}
       <section>
-      <h1>About Me</h1>
+     
+      <h2>David San</h2>
+      <h2>Frontend Developer</h2>
       <p>
+        I'm a front-end developer based in California. 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         sed do eiusmod tempor incididunt ut labore et dolore 
         magna aliqua. Ut enim ad minim veniam, quis nostrud 

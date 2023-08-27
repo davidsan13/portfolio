@@ -1,0 +1,26 @@
+{
+  "project": [ 
+    {
+      "name": "Shopping Cart",
+      "description": "A mock-up e-commerce website to with a shopping cart feature. It is build using react to manage and handle states.It used react router dom to define routes",
+      "url": "https://davidsan13.github.io/shopping_cart/",
+      "urlCode": "https://github.com/davidsan13/shopping_cart",
+      "img": "shoppingcart.png",
+      "tech": ["javascript", "react"]
+    },
+    {
+      "name": "CV App",
+      "description": "CV application is a tool to enables users to create a CV online. It allow the users to input informations to highlight their work experience, education, and skills",
+      "url": "https://davidsan13.github.io/cv-project/",
+      "urlCode": "https://github.com/davidsan13/cv-project",
+      "img": "cvapplication.png"
+    },
+    {
+      "name": "Memory Game",
+      "description": "The memory card game is a fun game to test your memory skill. The game fetch and use data from an external API(Pokemon API)",
+      "url": "https://memorygameds.netlify.app/",
+      "urlCode": "https://github.com/davidsan13/memory-game",
+      "img": "memory.png"
+    }
+  ]
+}

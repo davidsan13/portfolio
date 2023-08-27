@@ -4,9 +4,12 @@ function Contact() {
   return (
     <div id="contacts">
       <h1>Contact Me</h1>
-      <p>Please get in touch if you think our work could be mutually beneficial</p>
-      <a href="#">github</a>
-      <a href="#">Linkedin</a>
+      
+      <div className="social">
+        <a href="https://github.com/davidsan13"><img className="social-icon" src='./github.svg'/></a>
+        <a href="https://www.linkedin.com/in/davidsan13"><img className="social-icon" src='./linkedin.svg'/></a>
+      </div>
+
     </div>
    
   )
